@@ -2,7 +2,7 @@
 #Coursera New Repository
 <html>
   <head>
-    <title>Hello Courser !</title>
+    <title>Hello Coursera !</title>
   </head>
   <body>
     <h1>Coursera test</h1>
